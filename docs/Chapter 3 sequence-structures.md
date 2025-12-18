@@ -1,4 +1,3 @@
-```markdown
 # โครงสร้างข้อมูลแบบ Sequence ใน Python
 
 ## บทนำ
@@ -303,9 +302,6 @@ print("สุ่มด้วย seed:", [random.randint(1, 100) for _ in range(5
 - **Range**: สร้างลำดับตัวเลขสำหรับ Loop
 
 ---
-*เนื้อหานี้เหมาะสำหรับการสอนนักศึกษาระดับปริญญาตรี สามารถคัดลอกไปใช้เป็นไฟล์ Markdown ได้ทันที*
-```
-
 Sources
 [1] mkh-3-ITC4104-ethkhonolyiiewbech-rwisaelaaimokhrech-rwis.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/117597338/ce3d1110-de7e-4186-bd97-4a99d3396492/mkh-3-ITC4104-ethkhonolyiiewbech-rwisaelaaimokhrech-rwis.pdf
 [2] Forecasting: An Essential Tool for Data Science https://www.alooba.com/skills/concepts/data-science/forecasting/
